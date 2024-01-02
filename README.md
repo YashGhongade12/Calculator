@@ -1,1 +1,2 @@
 # Simple Calculator
+Author - Hacker
